@@ -20,8 +20,8 @@ This project implements a **virtual mouse** using **hand gestures** detected via
 
 ## 🚀 How to Run
 
-pip install opencv-python mediapipe pyautogui numpy
-python gesture_mouse.py
+* pip install opencv-python mediapipe pyautogui numpy
+* python gesture_mouse.py
 
 ## 💡 Use Cases
 
